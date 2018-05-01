@@ -1,0 +1,26 @@
+---
+title: "Hw6"
+author: "Trevor Freeland"
+date: "May 1, 2018"
+output: pdf_document
+---
+
+##54
+
+##55
+
+###(A)
+
+###(B)
+
+##56
+
+###(A)
+
+###(B)
+
+##57
+
+###(A)
+
+###(B)
