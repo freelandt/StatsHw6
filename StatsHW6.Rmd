@@ -5,6 +5,18 @@ date: "May 1, 2018"
 output: pdf_document
 ---
 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, comment = NA, message = F, warning = F)
+```
+
+```{r}
+library(tidyverse)
+```
+
+```{r}
+prison <- read.csv("http://math.carleton.edu/Chihara/Stats345/Recidivism.csv")
+```
+
 ##54
 
 ##55
